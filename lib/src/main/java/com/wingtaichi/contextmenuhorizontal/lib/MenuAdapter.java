@@ -235,7 +235,7 @@ public class MenuAdapter {
                         AnimatorUtils.translationRight(mTextWrapper.getChildAt(wrapperPositionAfter), mContext.getResources().getDimension(R.dimen.text_right_translation));
                 textAnimator.playTogether(textAppearanceAfter, textAppearanceBefore, textTranslationAfter, textTranslationBefore);
 
-                
+
             }
         } else {
             if (wrapperPositionAfter == mMiddleIndex) {

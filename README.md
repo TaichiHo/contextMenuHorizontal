@@ -1,3 +1,15 @@
+# ContextMenuHorizontal
+
+I love the idea of the ContextMenu provided by Yalantis. So I made a little change to fit my need. Feel free to use it. 
+
+All credits go to Yalantis.
+
+The effect is now horizontal as compared to the original side effect: 
+
+![ContextMenu](https://lh4.googleusercontent.com/-xL5PJgrVWB4/VQ2rkx5LN-I/AAAAAAAAC5A/eAYd29wq6jo/w226-h359-no/ezgif.com-optimize.gif)
+
+# Original Readme
+
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Context--Menu.Android-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1387)
 
 # ContextMenu 
