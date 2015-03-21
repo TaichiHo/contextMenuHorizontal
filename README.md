@@ -6,10 +6,10 @@ All credits go to Yalantis.
 
 The effect is now horizontal as compared to the original side effect: 
 
-##Usage
-I haven't pushed it to maven yet. So you will have to copy the files into your project to use it.
-
 ![ContextMenu](https://lh4.googleusercontent.com/-xL5PJgrVWB4/VQ2rkx5LN-I/AAAAAAAAC5A/eAYd29wq6jo/w226-h359-no/ezgif.com-optimize.gif)
+
+##Usage
+I haven't pushed it to maven yet. So you will have to copy the files into your project to use it. Do as the original Readme says.
 
 # Original Readme
 
