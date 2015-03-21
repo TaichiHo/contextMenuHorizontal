@@ -2,6 +2,8 @@
 
 I love the idea of the ContextMenu provided by Yalantis. So I made a little change to fit my need. Feel free to use it. 
 
+I haven't created push it to maven yet. So you will have to copy the files into your project to use it.
+
 All credits go to Yalantis.
 
 The effect is now horizontal as compared to the original side effect: 
